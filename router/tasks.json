@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "taskName": "Web Vitals Report",
+      "taskCode": "wvr",
+      "authorLdap": "schuettlerk"
+    },
+    {
+      "taskName": "Webpage Test Reports",
+      "taskCode": "wpt",
+      "authorLdap": "philkrie"
+    },
+    {
+      "swAuditor": "SW Auditor Results",
+      "taskCode": "swa",
+      "authorLdap": "willmonahan"
+    },
+    {
+      "taskName": "Snapper",
+      "taskCode": "snap",
+      "authorLdap": "philkrie"
+    },
+    {
+      "taskName": "UX Automation",
+      "taskCode": "lhux",
+      "authorLdap": "philkrie"
+    },
+    {
+      "taskName": "Font Impact Layout",
+      "taskCode": "fil",
+      "authorLdap": "mschierle"
+    },
+    {
+      "taskName": "Layout Shift GIF",
+      "taskCode": "lsg",
+      "authorLdap": "mschierle"
+    },
+    {
+      "taskName": "Low Contrast Issues",
+      "taskCode": "cdp",
+      "authorLdap": "alexrudenko"
+    }
+  ]
+}

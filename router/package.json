@@ -1,0 +1,14 @@
+{
+  "name": "router",
+  "version": "0.0.2",
+  "description": "routes requests to pubsub queues",
+  "author": "gt-ps-msites-tools-ninjas",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.5.1",
+    "@google-cloud/pubsub": "1.7.3"
+  },
+  "scripts": {
+    "test": "env NODE_ENV=test functions-framework --target=router"
+  }
+}
